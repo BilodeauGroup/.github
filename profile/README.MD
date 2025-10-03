@@ -18,7 +18,6 @@ This interdisciplinary toolset allows us to address important challenges in appl
 
 ### 👩‍🔬 [Camille Bilodeau](https://engineering.virginia.edu/faculty/camille-bilodeau)
 [![Camille Bilodeau LinkedIn](https://img.shields.io/badge/Camille%20Bilodeau-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/camille-bilodeau-63265158)  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hOj9jT4AAAAJ&hl=en)
 
 
 
@@ -31,17 +30,14 @@ This interdisciplinary toolset allows us to address important challenges in appl
 
 ### 🛠️ Languages and Tools  
 
-### 🛠️ Languages and Tools  
-
 <p align="center">
   <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="PyTorch" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
   <img alt="PyTorch Geometric" width="100px" src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg?sanitize=true"/>
   <img alt="RDKit" width="50px" src="https://avatars.githubusercontent.com/u/2018047?v=4"/>
-  <img alt="GROMACS" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GROMACS_logo.png/640px-GROMACS_logo.png"/>
-  <img alt="AMBER" width="120px" src="https://ambermd.org/images/amber_logo_whitebg.png"/>
+  <img alt="GROMACS" width="120px" src="logos/gromacs_logo.png"/>
+  <img alt="AMBER" width="120px" src="logos/amber_logo.png"/>
 </p>  
-
 
 ---
 
