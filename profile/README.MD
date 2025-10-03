@@ -17,7 +17,8 @@ This interdisciplinary toolset allows us to address important challenges in appl
 ---
 
 ### 👩‍🔬 Group Lead  
-- [**Camille Bilodeau**](https://www.linkedin.com/in/camille-bilodeau-63265158)  
+[![Camille Bilodeau LinkedIn](https://img.shields.io/badge/Camille%20Bilodeau-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/camille-bilodeau-63265158)  
+
 
 ---
 
