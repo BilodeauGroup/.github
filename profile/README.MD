@@ -35,8 +35,8 @@ This interdisciplinary toolset allows us to address important challenges in appl
   <img alt="PyTorch" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
   <img alt="PyTorch Geometric" width="100px" src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg?sanitize=true"/>
   <img alt="RDKit" width="50px" src="https://avatars.githubusercontent.com/u/2018047?v=4"/>
-  <img alt="GROMACS" width="120px" src="logos/gromacs_logo.png"/>
-  <img alt="AMBER" width="120px" src="logos/amber_logo.png"/>
+  <img alt="GROMACS" width="50px" src="logos/gromacs_logo.png"/>
+  <img alt="AMBER" width="50px" src="logos/amber_logo.png"/>
 </p>  
 
 ---
