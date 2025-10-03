@@ -40,9 +40,7 @@ This interdisciplinary toolset allows us to address important challenges in appl
   <img alt="AMBER" width="50px" src="logos/amber_logo.png"/>
 </p>  
 
----
 
-### 📊 GitHub Stats  
 
-![Bilodeau Group GitHub stats](https://github-readme-stats.vercel.app/api?username=BilodeauGroup&show_icons=true&theme=gotham)
+
 
