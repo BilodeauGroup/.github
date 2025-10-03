@@ -43,10 +43,5 @@ This interdisciplinary toolset allows us to address important challenges in appl
 
 ### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilodeau-Group&show_icons=true&theme=gotham" alt="Bilodeau Group GitHub stats"/>
-</p>  
+![Bilodeau Group GitHub stats](https://github-readme-stats.vercel.app/api?username=BilodeauGroup&show_icons=true&theme=gotham)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilodeau-Group&layout=compact&theme=gotham" alt="Bilodeau Group Top Languages"/>
-</p>  
