@@ -31,14 +31,17 @@ This interdisciplinary toolset allows us to address important challenges in appl
 
 ### 🛠️ Languages and Tools  
 
+### 🛠️ Languages and Tools  
+
 <p align="center">
   <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="PyTorch" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
   <img alt="PyTorch Geometric" width="100px" src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg?sanitize=true"/>
   <img alt="RDKit" width="50px" src="https://avatars.githubusercontent.com/u/2018047?v=4"/>
-  <img alt="GROMACS" width="120px" src="https://www.figma.com/es-es/comunidad/file/1177519735861222543/gromacs-logo"/>
-  <img alt="AMBER" width="120px" src="https://x.com/ambermdprog/photo"/>
+  <img alt="GROMACS" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GROMACS_logo.png/640px-GROMACS_logo.png"/>
+  <img alt="AMBER" width="120px" src="https://ambermd.org/images/amber_logo_whitebg.png"/>
 </p>  
+
 
 ---
 
