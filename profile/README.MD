@@ -25,6 +25,7 @@ This interdisciplinary toolset allows us to address important challenges in appl
 
 ### 🌐 Website  
 [![Bilodeau Group Website](https://img.shields.io/badge/Bilodeau%20Group-Website-brightgreen?style=for-the-badge)](https://bilodeau-group.com/)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=hOj9jT4AAAAJ&hl=en)
 
 ---
 
